@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiyabaskar</h1>
-<h3 align="center">💻 Frontend Developer | ☁️ Cloud Enthusiast | ☕ Java Developer</h3>
-
-- 🌱 I’m currently learning **cloud computing & java developper**
-
+<h3 align="center">💻 Frontend Developer | ☕ Java Developer</h3>
+-  Building reliable web apps with Java, frontend technologies, and cloud deployment.
 - 📫 How to reach me **santhiyabaskar2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
