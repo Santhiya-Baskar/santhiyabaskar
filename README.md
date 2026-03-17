@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiyabaskar</h1>
 <h3 align="center">💻 Frontend Developer | ☕ Java Developer</h3>
--  Building reliable web apps with Java, frontend technologies, and cloud deployment.
+-  Building reliable web apps with Java, frontend technologies, and cloud deployment. </br>
+
 - 📫 How to reach me **santhiyabaskar2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
