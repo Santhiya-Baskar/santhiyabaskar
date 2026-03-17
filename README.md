@@ -13,7 +13,7 @@ Building reliable web apps using Java, frontend technologies, and cloud deployme
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/santhiyabaskar/" target="_blank">
 <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
 <a href="https://github.com/" target="_blank">
